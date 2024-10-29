@@ -1,0 +1,10 @@
+C:\Users\laura\Documents\FESA\PBL II\PBL II\bin\Debug\PBL II.exe.config
+C:\Users\laura\Documents\FESA\PBL II\PBL II\bin\Debug\PBL II.exe
+C:\Users\laura\Documents\FESA\PBL II\PBL II\bin\Debug\PBL II.pdb
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL II.csproj.AssemblyReference.cache
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL_II.Form1.resources
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL_II.Properties.Resources.resources
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL II.csproj.GenerateResource.cache
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL II.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL II.exe
+C:\Users\laura\Documents\FESA\PBL II\PBL II\obj\Debug\PBL II.pdb
